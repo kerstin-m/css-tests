@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+article {
+  background-color: darkblue;
+}
+section {
+  background-color: black;
+}
+div {
+  position: absolute;
+  background-color: salmon;
+}
